@@ -1,1 +1,25 @@
-node_modules
+# Node
+node_modules/
+
+# Python - ambiente virtual
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Segurança
+.env
+.env.*
+!.env.example
+
+# Streamlit - somente segredos
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
+Thumbs.db
