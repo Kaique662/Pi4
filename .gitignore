@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Python
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Segurança (Senhas e chaves)
+.env

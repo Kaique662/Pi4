@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "BLACKWEAR",
+    "slug": "blackwear",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-status-bar",
+      "expo-sharing"
+    ]
+  }
+}
