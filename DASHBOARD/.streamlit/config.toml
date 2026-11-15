@@ -1,0 +1,15 @@
+[server]
+# 0.0.0.0 permite abrir o dashboard pelo celular na mesma rede (como a API).
+address = "0.0.0.0"
+port = 8501
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#111111"
+backgroundColor = "#f9f9f7"
+secondaryBackgroundColor = "#fcfcfb"
+textColor = "#0b0b0b"

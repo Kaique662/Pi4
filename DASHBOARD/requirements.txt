@@ -1,0 +1,6 @@
+streamlit>=1.40
+pymongo>=4.8
+pandas>=2.2
+plotly>=5.24
+bcrypt>=4.2
+python-dotenv>=1.0
